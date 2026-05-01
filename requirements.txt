@@ -1,0 +1,11 @@
+# WebSecAuto 依赖清单
+# 安装: pip install -r requirements.txt
+#
+# 注意: 这些依赖都是可选的
+# 核心功能依赖Python内置模块即可运行
+
+# Nmap扫描支持 (可选)
+# python-nmap>=0.7.0
+
+# 如果遇到SSL证书问题需要额外依赖
+# certifi>=2024.0.0
